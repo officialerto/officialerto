@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ertugrul.
-- 👀 I’m interested in table tennis.
+- 👀 I’m interested in table tennis, swim.
 - 🌱 I’m currently learning C#, ASP.Net-Core, SQL, NodeJS, JSON, JQuery, AJAX...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ertgrlzn, engineertugrul@gmail.com
