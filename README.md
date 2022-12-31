@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialerto&label=Profile%20views&color=0e75b6&style=flat" alt="officialerto" /> </p>
 
-- 🔭 I’m currently working on [E Marketing Project](https://github.com/officialerto/E_Marketing_Project_ASP.Net)
+- 🔭 Open to work!
 
 - 🌱 I’m currently learning **C#, ASP.Net-Core, SQL, NodeJS, JSON, React, JQuery, AJAX...**
 
