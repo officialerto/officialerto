@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ertugrul</h1>
-<h3 align="center">Junior Full Stack Developer</h3>
+<h3 align="center">Junior Backend Developer</h3>
 <img align="right" src="https://media.licdn.com/dms/image/C4D12AQEyH4W0_3_8Lg/article-cover_image-shrink_600_2000/0/1617887567803?e=2147483647&v=beta&t=US7cTRcTMUhceakszySvF92nXvU6eLT_qhaaiUcAjTY" width="400" style=flat" alt="coding" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=officialerto&label=Profile%20views&color=0e75b6&style=flat" alt="officialerto" /> </p>
