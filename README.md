@@ -6,7 +6,7 @@
 
 - 🔭 Open to work!
 
-- 🌱 I’m currently learning **C#, ASP.Net-Core, SQL, NodeJS, JSON, React, JQuery, AJAX...**
+- 🌱 I’m currently learning **C#, ASP.Net-Core, SQL, Javascript(JSON, JQuery, AJAX), NodeJS, React...**
 
 - 📫 How to reach me **engineertugrul@gmail.com**
 
