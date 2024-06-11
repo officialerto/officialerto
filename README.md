@@ -6,7 +6,7 @@
 
 - 🔭 Open to work!
 
-- 🌱 I’m currently learning **C#, ASP.Net-Core, SQL Server, Angular, Docker, RabbitMQ...**
+- 🌱 I’m currently learning **RDBMS, MSSQL Server, Oracle and PostegreSQL **
 
 - 📫 How to reach me **engineertugrul@gmail.com**
 
